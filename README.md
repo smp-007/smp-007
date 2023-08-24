@@ -1,5 +1,5 @@
 # About Me
-- 👋 Hello! I'm Pai.  I'm a Research associate in Team Additive manufacturing at Neue materialien Bayreuth GmbH with a passion for data-driven material science and Machine learning.
+- 👋 Hello! I'm Pai.  I'm a Research associate in Team Additive manufacturing for Polymers at Neue materialien Bayreuth GmbH with a passion for data-driven material science and Machine learning.
 - 👀 I’m interested in ML algorithms, Data analysis, Data processing, IoT
 - 🌱 In my free time, I enjoy travelling, watching TV shows in Netflix, watch FC Barcelona play, 
 - 💞️ I’m looking to collaborate on machine learning related projects closely associated in the field of material science.
