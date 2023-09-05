@@ -1,4 +1,4 @@
-![batman](https://media.tenor.com/55mQriWoLxoAAAAC/batman.gif)
+![batman](https://github.com/pai-nmb/pai-nmb/blob/main/batman.gif)
 
 # About Me
 - 👋 Hello! I'm Pai.  I'm a Research associate in Team Additive manufacturing for Polymers at Neue materialien Bayreuth GmbH with a passion for data-driven material science and Machine learning.
